@@ -1,0 +1,13 @@
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.csprojAssemblyReference.cache
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.AssemblyInfoInputs.cache
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.AssemblyInfo.cs
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.exe
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.deps.json
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.runtimeconfig.json
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.runtimeconfig.dev.json
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.dll
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\bin\Debug\netcoreapp3.1\TP1CSHARP.pdb
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.dll
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.pdb
+C:\Users\jackd\source\repos\TP1CSHARP\TP1CSHARP\obj\Debug\netcoreapp3.1\TP1CSHARP.genruntimeconfig.cache
