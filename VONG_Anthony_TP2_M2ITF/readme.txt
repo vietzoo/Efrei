@@ -1,0 +1,1 @@
+I used a NuGet Package to encrypt/decrypt named eramake.ecryptography
