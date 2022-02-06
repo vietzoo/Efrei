@@ -1,0 +1,37 @@
+﻿1. What is this code about?
+	The code is a shop in game where gilded is selling items. Some items can expire during time, and also their quality are variable.
+	We might be able to implement features that will let us sell new items and also bring new functionnabilities to items.
+
+2. Can you clearly identify the name of all the goods stored in the Guilded Rose?
+	Yes we can see them properly in program.cs :
+    - "+5 Dexterity Vest"
+    - "Aged Brie"
+    - "Elixir of the Mongoose"
+    - "Sulfuras, Hand of Ragnaros"
+    - "Backstage passes to a TAFKAL80ETC concert"
+    - "Conjured Mana Cake"
+
+3. What happens when the day is over?
+    It will depend on the item, for the quality :
+    - The Vest and Elixir will lose 1 quality point.
+    - Aged Brie and Backstage will increase their quality by 1.
+    - Sulfuras is a legendary item so it's quality wont change.
+    - Conjured Mana will decrease by twice as fast as the normal items.
+    As for the expiration date :
+    - Sulfuras is a legendary item so it won't impact it
+    - Every items will go lose 1 on their expiration date.
+
+4. What happens to cheese when the day is over?
+    
+5. What happens when a concert ticket goes over its expiration day?
+    The quality of the item will drop to 0.
+
+6. What makes this code hard to read?
+    How the functions are implemented and also the variables and classes make the code hard to read.
+
+7. Do you think the rules are clear enough so that you could rework the entire solution from scratch?
+    I think the rules are fine to code a solution from scratch.
+
+Part 2 Test : What is the benefit of adding tests here?
+    This is good to see if the base code is working properly.
+    
